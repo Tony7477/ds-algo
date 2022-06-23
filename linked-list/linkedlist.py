@@ -97,6 +97,7 @@ if __name__=='__main__':
      l1.insert_node(5)
      l1.insert_end(9)
      l1.insert_end(8)
+     l1.print()
      l1.remove_node(2)
      l1.print()
      l1.insert_at(2,2)
